@@ -1,7 +1,8 @@
 = At last
 == Everything is ok
 :hp-tags: newbie
+
 Probando probando, it seems it works :)
-Putting a picture 
-image::IMG_0788.JPG[]
+
+image::gateta.JPG[]
 
