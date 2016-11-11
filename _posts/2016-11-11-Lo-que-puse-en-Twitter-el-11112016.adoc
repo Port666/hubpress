@@ -1,8 +1,7 @@
 = Lo que puse en Twitter el 11/11/2016
-:hp-tags: Twitter, news, ciberseguridad, cybersecurity,
+:hp-tags: news, ciberseguridad, cybersecurity,
 
-.Internet usage October 2016
-:hp-image: Internet_usage_2009_2016.png[]
+image::Internet_usage_09_2016.png[]
 
 * Internet Traffic From *Mobile Browsers Exceeds Desktop Traffic* for the First Time. +
 According to StatCounter telemetry data, on October 2016 *mobile browsers accounted for 51.3%* while desktop for the rest of 48.7%.
@@ -11,11 +10,13 @@ http://www.bleepingcomputer.com/news/software/internet-traffic-from-mobile-brows
 * Open Database (CapGemini) Exposes *more than ten million* of Job Seekers’ Personal Information +
 http://motherboard.vice.com/read/open-database-exposes-millions-of-job-seekers-personal-information
 
-.Ganadores del Campeonato Europeo de Ciberseguridad
-image::ganadoresCTFEnisa2016.jpg[]
 * España logra el *primer puesto en el campeonato europeo de ciberseguridad*. +
 El equipo español está formado por *diez chavales de entre 16 y 30 años*, comandados por el entrenador, *Antonio Ramos*. La competición, organizada por ENISA, la Agencia Europea para la Seguridad de la Información. +
 https://underc0de.org/foro/noticias-informaticas-120/espana-logra-el-primer-puesto-en-el-campeonato-europeo-de-ciberseguridad/
+
+.Ganadores del Concurso Europeo organizado por ENISA
+image::ganadoresCTFEnisa2016.jpg[]
+
 
 * If Lokihardt is not the world's best hacker, he can't be far: the 22 year-old South Korean *has an uncanny knack for finding zero-day exploits* +
 http://www.theregister.co.uk/2016/11/11/worlds_best_hacker_ticks_chrome_windows_security_laughs_at_flash/
