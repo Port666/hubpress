@@ -1,7 +1,8 @@
 = Lo que puse en Twitter el 11/11/2016
 :hp-tag: Twitter, news, ciberseguridad, cybersecurity,
 
-image::Internet_usage_2009_2016.png[Internet usage October 2016]
+.Internet usage October 2016
+image::Internet_usage_2009_2016.png[]
 
 * Internet Traffic From *Mobile Browsers Exceeds Desktop Traffic* for the First Time. +
 According to StatCounter telemetry data, on October 2016 *mobile browsers accounted for 51.3%* while desktop for the rest of 48.7%.
@@ -10,7 +11,8 @@ http://www.bleepingcomputer.com/news/software/internet-traffic-from-mobile-brows
 * Open Database (CapGemini) Exposes *more than ten million* of Job Seekers’ Personal Information +
 http://motherboard.vice.com/read/open-database-exposes-millions-of-job-seekers-personal-information
 
-image::ganadoresCTFEnisa2016.jpg[Ganadores del Campeonato Europeo de Ciberseguridad]
+.Ganadores del Campeonato Europeo de Ciberseguridad
+image::ganadoresCTFEnisa2016.jpg[]
 * España logra el *primer puesto en el campeonato europeo de ciberseguridad*. +
 El equipo español está formado por *diez chavales de entre 16 y 30 años*, comandados por el entrenador, *Antonio Ramos*. La competición, organizada por ENISA, la Agencia Europea para la Seguridad de la Información. +
 https://underc0de.org/foro/noticias-informaticas-120/espana-logra-el-primer-puesto-en-el-campeonato-europeo-de-ciberseguridad/
