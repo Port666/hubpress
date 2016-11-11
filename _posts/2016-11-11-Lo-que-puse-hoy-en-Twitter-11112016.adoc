@@ -1,32 +1,26 @@
-= Lo que puse en Twitter el 11/11/2016
-:hp-tags: news, ciberseguridad, cybersecurity,
+= Lo que puse hoy en Twitter 11/11/2016
+:hp-tags: Twitter, ciberseguridad, cybersecurity,
 
 image::Internet_usage_09_2016.png[]
 
-* Internet Traffic From *Mobile Browsers Exceeds Desktop Traffic* for the First Time. +
-According to StatCounter telemetry data, on October 2016 *mobile browsers accounted for 51.3%* while desktop for the rest of 48.7%.
+* *El tráfico en Internet de los navegadores móviles supera por primera vez al tráfico de ordenadores de sobremesa*. According to StatCounter telemetry data, on October 2016 mobile browsers accounted for 51.3% while desktop for the rest of 48.7%.
 http://www.bleepingcomputer.com/news/software/internet-traffic-from-mobile-browsers-exceeds-desktop-traffic-for-the-first-time/
 
-* Open Database (CapGemini) Exposes *more than ten million* of Job Seekers’ Personal Information +
+* *Una base de datos de CapGemini abierta en Internet expone los datos personales de más de 10 millones de personas que buscan trabajo* +
 http://motherboard.vice.com/read/open-database-exposes-millions-of-job-seekers-personal-information
 
-* España logra el *primer puesto en el campeonato europeo de ciberseguridad*. +
-El equipo español está formado por *diez chavales de entre 16 y 30 años*, comandados por el entrenador, *Antonio Ramos*. La competición, organizada por ENISA, la Agencia Europea para la Seguridad de la Información. +
-https://underc0de.org/foro/noticias-informaticas-120/espana-logra-el-primer-puesto-en-el-campeonato-europeo-de-ciberseguridad/
-
-.Ganadores del Concurso Europeo organizado por ENISA
 image::ganadoresCTFEnisa2016.jpg[]
 
+* *España logra el primer puesto en el campeonato europeo de ciberseguridad*. El equipo español está formado por diez chavales de entre 16 y 30 años, comandados por el entrenador, *Antonio Ramos*. La competición, organizada por ENISA, la Agencia Europea para la Seguridad de la Información. +
+https://underc0de.org/foro/noticias-informaticas-120/espana-logra-el-primer-puesto-en-el-campeonato-europeo-de-ciberseguridad/
 
-* If Lokihardt is not the world's best hacker, he can't be far: the 22 year-old South Korean *has an uncanny knack for finding zero-day exploits* +
+* *Lokihardt: un sur-coreano de 22 años que tiene el don de encontrar 0-days* +
 http://www.theregister.co.uk/2016/11/11/worlds_best_hacker_ticks_chrome_windows_security_laughs_at_flash/
 
-* (España) El Tribunal Supremo *entierra el canon digital* +
-La sentencia del Tribunal Supremo, ya aprobada y que se conocerá en los próximos días, forzará al nuevo Gobierno a *abordar con toda urgencia una regulación distinta* del pago a los creadores de la compensación por copia privada. Luxemburgo advirtió en junio pasado que al ser un pago que abonan todos los españoles no permite conocer quiénes son los que realmente hacen copia de una obra. +
+* *(España) El Tribunal Supremo entierra el canon digital* La sentencia del Tribunal Supremo, ya aprobada, forzará al nuevo Gobierno a abordar con toda urgencia una regulación distinta del pago a los creadores de la compensación por copia privada. +
 https://bandaancha.eu/articulos/tribunal-supremo-entierra-canon-digital-9570
 
-* *Caso de éxito de crowdfunding en información* sobre seguridad informática y nuevas tecnologías + 
-Pablo Yglesias: Celebramos el aniversario del crowdfunding de la Comunidad con una Campaña Solidaria. Si el objetivo de alguien es montar algo así *para ganar dinero, que no pierda el tiempo*. +
+* *Caso de éxito de crowdfunding en información sobre seguridad informática y nuevas tecnologías*. Pablo Yglesias: Si el objetivo de alguien es montar algo así para ganar dinero, que no pierda el tiempo. +
 https://www.pabloyglesias.com/campana-solidaria-crowdfunding
 
 
