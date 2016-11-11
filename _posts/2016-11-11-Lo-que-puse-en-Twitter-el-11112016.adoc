@@ -10,7 +10,7 @@ http://www.bleepingcomputer.com/news/software/internet-traffic-from-mobile-brows
 * Open Database (CapGemini) Exposes *more than ten million* of Job Seekers’ Personal Information +
 http://motherboard.vice.com/read/open-database-exposes-millions-of-job-seekers-personal-information
 
-image::ganadoresCTFEnisa2016.jpg[Ganadores del Cameonato Europeo de Ciberseguridad]
+image::ganadoresCTFEnisa2016.jpg[Ganadores del Campeonato Europeo de Ciberseguridad]
 * España logra el *primer puesto en el campeonato europeo de ciberseguridad*. +
 El equipo español está formado por *diez chavales de entre 16 y 30 años*, comandados por el entrenador, *Antonio Ramos*. La competición, organizada por ENISA, la Agencia Europea para la Seguridad de la Información. +
 https://underc0de.org/foro/noticias-informaticas-120/espana-logra-el-primer-puesto-en-el-campeonato-europeo-de-ciberseguridad/
