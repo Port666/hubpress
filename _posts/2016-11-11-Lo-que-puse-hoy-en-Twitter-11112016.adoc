@@ -3,16 +3,21 @@
 
 image::Internet_usage_09_2016.png[]
 
-* *El tráfico en Internet de los navegadores móviles supera por primera vez al tráfico de ordenadores de sobremesa*. According to StatCounter telemetry data, on October 2016 mobile browsers accounted for 51.3% while desktop for the rest of 48.7%.
-http://www.bleepingcomputer.com/news/software/internet-traffic-from-mobile-browsers-exceeds-desktop-traffic-for-the-first-time/
+* *"OpenSSL soluciona tres vulnerabilidades"*. Vía @manoleet. +
+http://unaaldia.hispasec.com/2016/11/openssl-soluciona-tres-vulnerabilidades.html
 
 * *Una base de datos de CapGemini abierta en Internet expone los datos personales de más de 10 millones de personas que buscan trabajo* +
 http://motherboard.vice.com/read/open-database-exposes-millions-of-job-seekers-personal-information
+
+* *Empieza el II Congreso de Seguridad Informática Ciudad de Guadalajara*. Vía @tecnoirus: Y llegó el día!!! puedes seguir todo lo que ocurra en el evento a través del hashtag #HoneyCON16
 
 image::ganadoresCTFEnisa2016.jpg[]
 
 * *España logra el primer puesto en el campeonato europeo de ciberseguridad*. El equipo español está formado por diez chavales de entre 16 y 30 años, comandados por el entrenador, *Antonio Ramos*. La competición, organizada por ENISA, la Agencia Europea para la Seguridad de la Información. +
 https://underc0de.org/foro/noticias-informaticas-120/espana-logra-el-primer-puesto-en-el-campeonato-europeo-de-ciberseguridad/
+
+* *Acho Mira-ahí. La botnet Murciana...* Que gran articulo by @kinomakino. Vía @lugbeta. +
+http://kinomakino.blogspot.com.es/2016/11/acho-mira-ahi-la-botnet-murciana.html 
 
 * *Lokihardt: un sur-coreano de 22 años que tiene el don de encontrar 0-days* +
 http://www.theregister.co.uk/2016/11/11/worlds_best_hacker_ticks_chrome_windows_security_laughs_at_flash/
@@ -22,6 +27,15 @@ https://bandaancha.eu/articulos/tribunal-supremo-entierra-canon-digital-9570
 
 * *Caso de éxito de crowdfunding en información sobre seguridad informática y nuevas tecnologías*. Pablo Yglesias: Si el objetivo de alguien es montar algo así para ganar dinero, que no pierda el tiempo. +
 https://www.pabloyglesias.com/campana-solidaria-crowdfunding
+
+* *El tráfico en Internet de los navegadores móviles supera por primera vez al tráfico de ordenadores de sobremesa*. According to StatCounter telemetry data, on October 2016 mobile browsers accounted for 51.3% while desktop for the rest of 48.7%.
+http://www.bleepingcomputer.com/news/software/internet-traffic-from-mobile-browsers-exceeds-desktop-traffic-for-the-first-time/
+
+*LA FRASE*
+
+WARNING: @lostinsecurity: _So it seems that all those IP addresses leaked by Shadow Brokers are Solaris boxes that were switched off around 2005._ +
+https://twitter.com/lostinsecurity/status/796980070275551232
+
 
 
 
