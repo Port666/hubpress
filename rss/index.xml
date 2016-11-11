@@ -1,86 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Port666]]></title><description><![CDATA[Hacking news]]></description><link>https://Port666.github.io/hubpress.io</link><generator>RSS for Node</generator><lastBuildDate>Thu, 10 Nov 2016 21:05:22 GMT</lastBuildDate><atom:link href="https://Port666.github.io/hubpress.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Lo que puse hoy en Twitter 10/11/16]]></title><description><![CDATA[<div class="ulist">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Port666]]></title><description><![CDATA[Hacking news]]></description><link>https://Port666.github.io/hubpress.io</link><generator>RSS for Node</generator><lastBuildDate>Fri, 11 Nov 2016 09:09:31 GMT</lastBuildDate><atom:link href="https://Port666.github.io/hubpress.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Lo que puse en Twitter el 10/11/16]]></title><description><![CDATA[<div class="ulist">
 <ul>
 <li>
-<p>We reverse engineer 3 chinese popular live streaming platforms and find keyword lists used to censor chat messages
+<p>We reverse engineer <strong>3 chinese popular live streaming platforms</strong> and find <strong>keyword lists used to censor</strong> chat messages<br>
 <a href="https://citizenlab.org/2016/11/harmonized-histories-year-fragmented-censorship-across-chinese-live-streaming-applications/" class="bare">https://citizenlab.org/2016/11/harmonized-histories-year-fragmented-censorship-across-chinese-live-streaming-applications/</a></p>
 </li>
 <li>
-<p>The Citizen Lab (University of Toronto) is hiring a Security Researcher to work on threats against civil society
+<p>The Citizen Lab (University of Toronto) is hiring a <strong>Security Researcher to work on threats against civil society</strong><br>
 <a href="https://citizenlab.org/2015/08/job-posting-security-researcher-malware-analyst/" class="bare">https://citizenlab.org/2015/08/job-posting-security-researcher-malware-analyst/</a></p>
 </li>
 <li>
-<p>"Your WiFi-connected thermostat can take down the whole Internet.
-We need new regulations." (Bruce Schneier) via RISKS Digest</p>
+<p>"Your WiFi-connected thermostat can take down the whole Internet.<br>
+We need <strong>new regulations</strong>." (Bruce Schneier) via RISKS Digest</p>
 </li>
 <li>
-<p>Gran Bretaña aprueba gastar 2,3 mil millones en cibersek para, entre otros, reclutar mil agentes de inteligencia
+<p>Gran Bretaña aprueba gastar <strong>2,3 mil millones en ciberseguridad</strong> para, entre otros, reclutar <strong>mil agentes de inteligencia</strong><br>
 <a href="http://www.voanews.com/a/britain-spends-billions-on-cybersecurity-russian-threat/3580433.html" class="bare">http://www.voanews.com/a/britain-spends-billions-on-cybersecurity-russian-threat/3580433.html</a></p>
 </li>
 <li>
-<p>Be paranoid - 'Web Of Trust' Browser Add-On Caught Selling Users' Data
+<p>Be paranoid - <strong>'Web Of Trust' Browser Add-On Caught</strong> Selling Users' Data<br>
 <a href="http://thehackernews.com/2016/11/web-of-trust-addon.html" class="bare">http://thehackernews.com/2016/11/web-of-trust-addon.html</a></p>
 </li>
 <li>
-<p>Cuando fuimos netactivistas
+<p>Cuando fuimos <strong>netactivistas</strong><br>
 <a href="https://vimeo.com/145810600" class="bare">https://vimeo.com/145810600</a></p>
 </li>
 <li>
-<p>The BlackNurse Attack "The 90&#8217;s called and wanted their ICMP flood attack back"
+<p>The BlackNurse Attack "The 90&#8217;s called and wanted their <strong>ICMP flood attack back</strong>"<br>
 <a href="https://www.reddit.com/r/netsec/comments/5c7g10/the_blacknurse_attack/" class="bare">https://www.reddit.com/r/netsec/comments/5c7g10/the_blacknurse_attack/</a></p>
 </li>
 <li>
-<p>@todayininfosec
-1983: Len Eidelmen coined the term "virus" to describe a self-replicating program during a computer safety lecture at Lehigh University.</p>
+<p>@todayininfosec<br>
+1983: <strong>Len Eidelmen coined the term "virus"</strong> to describe a self-replicating program during a computer safety lecture at Lehigh University.</p>
 </li>
 <li>
-<p>Creating an IoT worm.
-Eyal Ronen, Colin O’Flynn, Adi Shamir and Achi-Or Weingarten
-<a href="http://iotworm.eyalro.net/" class="bare">http://iotworm.eyalro.net/</a>
+<p><strong>Creating an IoT worm</strong>.<br>
+Eyal Ronen, Colin O’Flynn, Adi Shamir and Achi-Or Weingarten<br>
+<a href="http://iotworm.eyalro.net/" class="bare">http://iotworm.eyalro.net/</a><br>
 Possible Worm applications:
 .Bricking attack
 .Wireless network jamming
 .Attacking the electric grid
-.Causing epileptic seizures !!!</p>
+.<strong>Causing epileptic seizures !!!</strong></p>
 </li>
 <li>
-<p>What went wrong at Tesco Bank?
+<p>What went wrong at <strong>Tesco Bank</strong>?<br>
 <a href="http://www.theregister.co.uk/2016/11/10/tesco_bank_breach_analysis/" class="bare">http://www.theregister.co.uk/2016/11/10/tesco_bank_breach_analysis/</a></p>
 </li>
 <li>
-<p>El legendario blog de #MalwareMustDie cierra en protesta por el mal uso de la NSA de sus investigaciones
+<p>El legendario blog de <strong>MalwareMustDie cierra en protesta por el mal uso de la NSA</strong> de sus investigaciones<br>
 <a href="http://securityaffairs.co/wordpress/53285/malware/malwaremustdie-closed.html" class="bare">http://securityaffairs.co/wordpress/53285/malware/malwaremustdie-closed.html</a></p>
 </li>
 <li>
-<p>The residents in two apartment buildings Finland faced more that a week of serious problem due to a DDoS attack that targeted the building control systems
+<p>The residents in two apartment buildings Finland faced more that a week of serious problem due to a <strong>DDoS attack that targeted the building control systems</strong><br>
 <a href="http://securityaffairs.co/wordpress/53247/cyber-crime/building-control-systems-ddos.html" class="bare">http://securityaffairs.co/wordpress/53247/cyber-crime/building-control-systems-ddos.html</a></p>
 </li>
 <li>
-<p>Aumentan las empresas que hacen "inteligencia": monitorizar la dark web por encargo de la policía
+<p><strong>Aumentan las empresas que hacen "inteligencia"</strong>: monitorizar la dark web por encargo de la policía<br>
 <a href="http://motherboard.vice.com/read/us-customs-police-paid-contractors-to-monitor-the-dark-web" class="bare">http://motherboard.vice.com/read/us-customs-police-paid-contractors-to-monitor-the-dark-web</a></p>
 </li>
 <li>
-<p>Yahoo cuesta de matar - Some Yahoo staff knew in 2014 that it had been hacked
-<a href="https://www.grahamcluley.com/yahoo-staff-knew-2014-hacked/" class="bare">https://www.grahamcluley.com/yahoo-staff-knew-2014-hacked/</a>
+<p>Yahoo cuesta de matar - Some Yahoo staff <strong>knew in 2014 that it had been hacked</strong><br>
+<a href="https://www.grahamcluley.com/yahoo-staff-knew-2014-hacked/" class="bare">https://www.grahamcluley.com/yahoo-staff-knew-2014-hacked/</a><br>
 Yahoo is facing 23 lawsuits over that</p>
 </li>
 <li>
-<p>New ransomware, Telecrypt, abuses Telegram for C&amp;C and to allow victims to send messages to attackers
+<p><strong>New ransomware, Telecrypt, abuses Telegram</strong> for C&amp;C and to allow victims to send messages to attackers<br>
 <a href="http://www.securityweek.com/file-encrypting-ransomware-telecrypt-abuses-telegram" class="bare">http://www.securityweek.com/file-encrypting-ransomware-telecrypt-abuses-telegram</a></p>
 </li>
 <li>
-<p>16-31 October 2016 Cyber Attacks Timeline
+<p><strong>16-31 October 2016 Cyber Attacks</strong> Timeline<br>
 <a href="http://www.hackmageddon.com/2016/11/10/16-31-october-2016-cyber-attacks-timeline/" class="bare">http://www.hackmageddon.com/2016/11/10/16-31-october-2016-cyber-attacks-timeline/</a></p>
 </li>
 <li>
-<p>ExtraTorrent ahogada por las acciones de la industria
+<p><strong>ExtraTorrent</strong> ahogada por las acciones de la industria<br>
 <a href="http://www.redeszone.net/2016/11/10/extratorrent-ahogada-las-acciones-la-industria/" class="bare">http://www.redeszone.net/2016/11/10/extratorrent-ahogada-las-acciones-la-industria/</a></p>
 </li>
 <li>
-<p>Blacknurse: ataque ICMP para un DoS efectivo y con poco ancho de banda
+<p>Blacknurse: <strong>ataque ICMP para un DoS efectivo</strong> y con poco ancho de banda<br>
 <a href="http://www.hackplayers.com/2016/11/blacknurse-ataque-icmp-para-un-dos.html" class="bare">http://www.hackplayers.com/2016/11/blacknurse-ataque-icmp-para-un-dos.html</a></p>
 </li>
 </ul>
-</div>]]></description><link>https://Port666.github.io/hubpress.io/2016/11/10/Lo-que-puse-hoy-en-Twitter-101116.html</link><guid isPermaLink="true">https://Port666.github.io/hubpress.io/2016/11/10/Lo-que-puse-hoy-en-Twitter-101116.html</guid><category><![CDATA[Twitter]]></category><category><![CDATA[ news]]></category><category><![CDATA[ cybersecurity]]></category><category><![CDATA[ seguridad informática]]></category><dc:creator><![CDATA[Mercè Molist]]></dc:creator><pubDate>Thu, 10 Nov 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Segundo intento]]></title><description><![CDATA[<div class="paragraph">
+</div>]]></description><link>https://Port666.github.io/hubpress.io/2016/11/10/Lo-que-puse-en-Twitter-el-101116.html</link><guid isPermaLink="true">https://Port666.github.io/hubpress.io/2016/11/10/Lo-que-puse-en-Twitter-el-101116.html</guid><category><![CDATA[Twitter]]></category><category><![CDATA[ news]]></category><category><![CDATA[ cybersecurity]]></category><category><![CDATA[ seguridad informática]]></category><dc:creator><![CDATA[Mercè Molist]]></dc:creator><pubDate>Thu, 10 Nov 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Segundo intento]]></title><description><![CDATA[<div class="paragraph">
 <p>A veure aquí què passa i per què <strong>no sé</strong> com publicar els putos posts a la puta plana a veure què passa coi!</p>
 </div>]]></description><link>https://Port666.github.io/hubpress.io/2016/11/09/Segundo-intento.html</link><guid isPermaLink="true">https://Port666.github.io/hubpress.io/2016/11/09/Segundo-intento.html</guid><dc:creator><![CDATA[Mercè Molist]]></dc:creator><pubDate>Wed, 09 Nov 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Prova]]></title><description><![CDATA[<div class="paragraph">
 <p>A veure si això funciona i es publica o què</p>
