@@ -1,8 +1,8 @@
 = Lo que puse en Twitter el 11/11/2016
-:hp-tag: Twitter, news, ciberseguridad, cybersecurity,
+:hp-tags: Twitter, news, ciberseguridad, cybersecurity,
 
 .Internet usage October 2016
-image::Internet_usage_2009_2016.png[]
+:hp-image: Internet_usage_2009_2016.png[]
 
 * Internet Traffic From *Mobile Browsers Exceeds Desktop Traffic* for the First Time. +
 According to StatCounter telemetry data, on October 2016 *mobile browsers accounted for 51.3%* while desktop for the rest of 48.7%.
