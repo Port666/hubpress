@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Port666]]></title><description><![CDATA[Hacking news]]></description><link>https://Port666.github.io/hubpress.io</link><generator>RSS for Node</generator><lastBuildDate>Fri, 11 Nov 2016 10:30:14 GMT</lastBuildDate><atom:link href="https://Port666.github.io/hubpress.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Lo que puse en Twitter el 11/11/2016]]></title><description><![CDATA[<div class="ulist">
-<div class="title">Internet usage October 2016</div>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Port666]]></title><description><![CDATA[Hacking news]]></description><link>https://Port666.github.io/hubpress.io</link><generator>RSS for Node</generator><lastBuildDate>Fri, 11 Nov 2016 10:39:37 GMT</lastBuildDate><atom:link href="https://Port666.github.io/hubpress.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Lo que puse en Twitter el 11/11/2016]]></title><description><![CDATA[<div class="imageblock">
+<div class="content">
+<img src="https://Port666.github.io/hubpress.io/images/Internet_usage_09_2016.png" alt="Internet usage 09 2016.png">
+</div>
+</div>
+<div class="ulist">
 <ul>
 <li>
 <p>Internet Traffic From <strong>Mobile Browsers Exceeds Desktop Traffic</strong> for the First Time.<br>
@@ -10,21 +14,21 @@ According to StatCounter telemetry data, on October 2016 <strong>mobile browsers
 <p>Open Database (CapGemini) Exposes <strong>more than ten million</strong> of Job Seekers’ Personal Information<br>
 <a href="http://motherboard.vice.com/read/open-database-exposes-millions-of-job-seekers-personal-information" class="bare">http://motherboard.vice.com/read/open-database-exposes-millions-of-job-seekers-personal-information</a></p>
 </li>
+<li>
+<p>España logra el <strong>primer puesto en el campeonato europeo de ciberseguridad</strong>.<br>
+El equipo español está formado por <strong>diez chavales de entre 16 y 30 años</strong>, comandados por el entrenador, <strong>Antonio Ramos</strong>. La competición, organizada por ENISA, la Agencia Europea para la Seguridad de la Información.<br>
+<a href="https://underc0de.org/foro/noticias-informaticas-120/espana-logra-el-primer-puesto-en-el-campeonato-europeo-de-ciberseguridad/" class="bare">https://underc0de.org/foro/noticias-informaticas-120/espana-logra-el-primer-puesto-en-el-campeonato-europeo-de-ciberseguridad/</a></p>
+</li>
 </ul>
 </div>
 <div class="imageblock">
 <div class="content">
 <img src="https://Port666.github.io/hubpress.io/images/ganadoresCTFEnisa2016.jpg" alt="ganadoresCTFEnisa2016.jpg">
 </div>
-<div class="title">Figure 1. Ganadores del Campeonato Europeo de Ciberseguridad</div>
+<div class="title">Figure 1. Ganadores del Concurso Europeo organizado por ENISA</div>
 </div>
 <div class="ulist">
 <ul>
-<li>
-<p>España logra el <strong>primer puesto en el campeonato europeo de ciberseguridad</strong>.<br>
-El equipo español está formado por <strong>diez chavales de entre 16 y 30 años</strong>, comandados por el entrenador, <strong>Antonio Ramos</strong>. La competición, organizada por ENISA, la Agencia Europea para la Seguridad de la Información.<br>
-<a href="https://underc0de.org/foro/noticias-informaticas-120/espana-logra-el-primer-puesto-en-el-campeonato-europeo-de-ciberseguridad/" class="bare">https://underc0de.org/foro/noticias-informaticas-120/espana-logra-el-primer-puesto-en-el-campeonato-europeo-de-ciberseguridad/</a></p>
-</li>
 <li>
 <p>If Lokihardt is not the world&#8217;s best hacker, he can&#8217;t be far: the 22 year-old South Korean <strong>has an uncanny knack for finding zero-day exploits</strong><br>
 <a href="http://www.theregister.co.uk/2016/11/11/worlds_best_hacker_ticks_chrome_windows_security_laughs_at_flash/" class="bare">http://www.theregister.co.uk/2016/11/11/worlds_best_hacker_ticks_chrome_windows_security_laughs_at_flash/</a></p>
@@ -40,7 +44,7 @@ Pablo Yglesias: Celebramos el aniversario del crowdfunding de la Comunidad con u
 <a href="https://www.pabloyglesias.com/campana-solidaria-crowdfunding" class="bare">https://www.pabloyglesias.com/campana-solidaria-crowdfunding</a></p>
 </li>
 </ul>
-</div>]]></description><link>https://Port666.github.io/hubpress.io/2016/11/11/Lo-que-puse-en-Twitter-el-11112016.html</link><guid isPermaLink="true">https://Port666.github.io/hubpress.io/2016/11/11/Lo-que-puse-en-Twitter-el-11112016.html</guid><category><![CDATA[Twitter]]></category><category><![CDATA[ news]]></category><category><![CDATA[ ciberseguridad]]></category><category><![CDATA[ cybersecurity]]></category><dc:creator><![CDATA[Mercè Molist]]></dc:creator><pubDate>Fri, 11 Nov 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Lo que puse en Twitter el 10/11/16]]></title><description><![CDATA[<div class="ulist">
+</div>]]></description><link>https://Port666.github.io/hubpress.io/2016/11/11/Lo-que-puse-en-Twitter-el-11112016.html</link><guid isPermaLink="true">https://Port666.github.io/hubpress.io/2016/11/11/Lo-que-puse-en-Twitter-el-11112016.html</guid><category><![CDATA[news]]></category><category><![CDATA[ ciberseguridad]]></category><category><![CDATA[ cybersecurity]]></category><dc:creator><![CDATA[Mercè Molist]]></dc:creator><pubDate>Fri, 11 Nov 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Lo que puse en Twitter el 10/11/16]]></title><description><![CDATA[<div class="ulist">
 <ul>
 <li>
 <p>We reverse engineer <strong>3 chinese popular live streaming platforms</strong> and find <strong>keyword lists used to censor</strong> chat messages<br>
