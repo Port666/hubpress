@@ -13,7 +13,7 @@ http://motherboard.vice.com/read/open-database-exposes-millions-of-job-seekers-p
 
 image::ganadoresCTFEnisa2016.jpg[]
 
-* *España logra el primer puesto en el campeonato europeo de ciberseguridad*. El equipo español está formado por diez chavales de entre 16 y 30 años, comandados por el entrenador, *Antonio Ramos*. La competición, organizada por ENISA, la Agencia Europea para la Seguridad de la Información. +
+* *España logra el primer puesto en el campeonato europeo de ciberseguridad*. El equipo español está formado por diez chavales de entre 16 y 30 años, comandados por el entrenador, Antonio Ramos. La competición, organizada por ENISA, la Agencia Europea para la Seguridad de la Información. +
 https://underc0de.org/foro/noticias-informaticas-120/espana-logra-el-primer-puesto-en-el-campeonato-europeo-de-ciberseguridad/
 
 * *Acho Mira-ahí. La botnet Murciana...* Que gran articulo by @kinomakino. Vía @lugbeta. +
