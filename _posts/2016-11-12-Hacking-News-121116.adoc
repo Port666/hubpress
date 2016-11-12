@@ -1,0 +1,29 @@
+= Hacking News (12/11/16)
+:hq-tags: seguridad informática, ciberseguridad, noticias,
+
+* *La Con del año en España: #HoneyCon16, ayer y hoy en Guadalajara* +
+https://honeycon.eu/
+
+-> Peleas de sables de luz: +
+
+.https://twitter.com/i/web/status/797339466771951616
+image::https://pbs.twimg.com/media/CxC3e_RXAAAH01A.jpg[]
+
+-> Capitán... ¿hamburguesa? +
+
+.https://twitter.com/MMontesDiaz/status/797180184663363584
+image::https://pbs.twimg.com/media/CxAnI8dW8AE6-Kx.jpg:large[]
+
+* *Mientras, en México, la Con del año se ha llamado #Bugcon2016* +
+http://www.bugcon.org/
+
+-> Lleno... hasta el suelo
+
+.https://twitter.com/BugCON/status/797160158707249152
+image::https://pbs.twimg.com/media/CxAU7jLUoAAP3pd.jpg:large[]
+
+-> ¿La charla estrella?
+
+.https://twitter.com/calderpwn/status/797143421060345856
+image::https://pbs.twimg.com/media/CxAFtQzUsAAbFaQ.jpg:large[]
+
