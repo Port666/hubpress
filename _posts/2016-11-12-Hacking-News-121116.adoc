@@ -9,12 +9,12 @@ https://honeycon.eu/
 ** Peleas de sables de luz: 
 +
 ._https://twitter.com/i/web/status/797339466771951616_
-image::https://pbs.twimg.com/media/CxC3e_RXAAAH01A.jpg[]
+image::https://pbs.twimg.com/media/CxC3e_RXAAAH01A.jpg[300,400]
 
 ** Capitán... ¿hamburguesa? 
 +
 ._https://twitter.com/MMontesDiaz/status/797180184663363584_
-image::https://pbs.twimg.com/media/CxAnI8dW8AE6-Kx.jpg:large[]
+image::https://pbs.twimg.com/media/CxAnI8dW8AE6-Kx.jpg:large[300,400]
 ====
 * *Mientras, en México, la Con del año se ha llamado #Bugcon2016* +
 http://www.bugcon.org/
@@ -22,12 +22,12 @@ http://www.bugcon.org/
 ** Lleno... hasta el suelo
 +
 ._https://twitter.com/BugCON/status/797160158707249152_
-image::https://pbs.twimg.com/media/CxAU7jLUoAAP3pd.jpg:large[]
+image::https://pbs.twimg.com/media/CxAU7jLUoAAP3pd.jpg:large[300,400]
 
 ** La charla estrella
 +
 ._https://twitter.com/calderpwn/status/797143421060345856_
-image::https://pbs.twimg.com/media/CxAFtQzUsAAbFaQ.jpg:large[]
+image::https://pbs.twimg.com/media/CxAFtQzUsAAbFaQ.jpg:large[300,400]
 
 *EL RESTO DE LAS NOTICIAS*
 
