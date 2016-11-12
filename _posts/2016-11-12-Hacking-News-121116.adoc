@@ -3,27 +3,58 @@
 
 * *La Con del año en España: #HoneyCon16, ayer y hoy en Guadalajara* +
 https://honeycon.eu/
-
--> Peleas de sables de luz: +
-
-.https://twitter.com/i/web/status/797339466771951616
+ 
+** Peleas de sables de luz: 
++
+._https://twitter.com/i/web/status/797339466771951616_
 image::https://pbs.twimg.com/media/CxC3e_RXAAAH01A.jpg[]
 
--> Capitán... ¿hamburguesa? +
-
-.https://twitter.com/MMontesDiaz/status/797180184663363584
+** Capitán... ¿hamburguesa? 
++
+._https://twitter.com/MMontesDiaz/status/797180184663363584_
 image::https://pbs.twimg.com/media/CxAnI8dW8AE6-Kx.jpg:large[]
-
+====
 * *Mientras, en México, la Con del año se ha llamado #Bugcon2016* +
 http://www.bugcon.org/
 
--> Lleno... hasta el suelo
-
-.https://twitter.com/BugCON/status/797160158707249152
+** Lleno... hasta el suelo
++
+._https://twitter.com/BugCON/status/797160158707249152_
 image::https://pbs.twimg.com/media/CxAU7jLUoAAP3pd.jpg:large[]
 
--> ¿La charla estrella?
-
-.https://twitter.com/calderpwn/status/797143421060345856
+** La charla estrella
++
+._https://twitter.com/calderpwn/status/797143421060345856_
 image::https://pbs.twimg.com/media/CxAFtQzUsAAbFaQ.jpg:large[]
+
+=== El resto de las noticias
+
+* *Ataques DDoS contra 5 bancos rusos usando la botnet de la IoT, Mirai* +
+http://securityaffairs.co/wordpress/53312/cyber-crime/ddos-attacks-russia-banks.html
+
+* *El Ejército de EEUU inicia su propio y polémico programa de "bug bounty"* +
+https://www.wired.com/2016/11/us-military-launches-hack-army-ambitious-bug-bounty-yet/
+
+* *¿Cómo saltarte un programa de reconocimiento facial? Fácil: con gafas* +
+https://www.schneier.com/blog/archives/2016/11/fooling_facial_.html
+
+* *Entrevista a Ramón Roca, de Guifi.net, wifi y fibra óptica libres - Eso sí es hacking* +
+http://www.eldiario.es/alternativaseconomicas/Guifinet-wifi-fibra-optica-libre_6_578902137.html
+
+* *Fascinante: ataques DDoS al sistema de control de unos apartamentos de Finlandia deja a sus habitantes sin calefacción ni agua caliente en pleno invierno* +
+http://metropolitan.fi/entry/ddos-attack-halts-heating-in-finland-amidst-winter
+
+== La animalada
+
+* *Cómo hackear un ordenador* +
+http://www.microsiervos.com/archivo/humor/como-hackear-un-ordenador.html
+
+== La frase
+
+* @pinboard: *We have a moral responsibility in the tech community to protect people from the surveillance apparatus we’ve built around them. It’s urgent* +
+https://twitter.com/Pinboard/status/797165214214987776
+
+
+
+
 
