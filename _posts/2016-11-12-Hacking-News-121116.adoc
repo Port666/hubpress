@@ -1,6 +1,8 @@
 = Hacking News (12/11/16)
 :hq-tags: seguridad informática, ciberseguridad, noticias,
 
+*LO MÁS INTERESANTE*
+
 * *La Con del año en España: #HoneyCon16, ayer y hoy en Guadalajara* +
 https://honeycon.eu/
  
@@ -27,9 +29,9 @@ image::https://pbs.twimg.com/media/CxAU7jLUoAAP3pd.jpg:large[]
 ._https://twitter.com/calderpwn/status/797143421060345856_
 image::https://pbs.twimg.com/media/CxAFtQzUsAAbFaQ.jpg:large[]
 
-=== El resto de las noticias
+*EL RESTO DE LAS NOTICIAS*
 
-* *Ataques DDoS contra 5 bancos rusos usando la botnet de la IoT, Mirai* +
+* *Ataques DDoS contra 5 bancos rusos usando la botnet de IoT, Mirai* +
 http://securityaffairs.co/wordpress/53312/cyber-crime/ddos-attacks-russia-banks.html
 
 * *El Ejército de EEUU inicia su propio y polémico programa de "bug bounty"* +
@@ -44,12 +46,12 @@ http://www.eldiario.es/alternativaseconomicas/Guifinet-wifi-fibra-optica-libre_6
 * *Fascinante: ataques DDoS al sistema de control de unos apartamentos de Finlandia deja a sus habitantes sin calefacción ni agua caliente en pleno invierno* +
 http://metropolitan.fi/entry/ddos-attack-halts-heating-in-finland-amidst-winter
 
-== La animalada
+*LA ANIMALADA*
 
 * *Cómo hackear un ordenador* +
 http://www.microsiervos.com/archivo/humor/como-hackear-un-ordenador.html
 
-== La frase
+*LA FRASE*
 
 * @pinboard: *We have a moral responsibility in the tech community to protect people from the surveillance apparatus we’ve built around them. It’s urgent* +
 https://twitter.com/Pinboard/status/797165214214987776
