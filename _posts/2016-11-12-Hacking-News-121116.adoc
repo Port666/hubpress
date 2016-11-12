@@ -1,5 +1,5 @@
 = Hacking News (12/11/16)
-:hq-tags: seguridad informática, ciberseguridad, noticias,
+:hq-tags: seguridad, informática, ciberseguridad, noticias
 
 * *Ataques DDoS contra 5 bancos rusos usando la botnet de IoT, Mirai* +
 http://securityaffairs.co/wordpress/53312/cyber-crime/ddos-attacks-russia-banks.html
