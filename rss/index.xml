@@ -1,72 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Port666]]></title><description><![CDATA[Hacking news]]></description><link>https://Port666.github.io/hubpress.io</link><generator>RSS for Node</generator><lastBuildDate>Sat, 12 Nov 2016 09:16:58 GMT</lastBuildDate><atom:link href="https://Port666.github.io/hubpress.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Hacking News (12/11/16)]]></title><description><![CDATA[<div class="paragraph">
-<p><strong>LO MÁS INTERESANTE</strong></p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><strong>La Con del año en España: #HoneyCon16, ayer y hoy en Guadalajara</strong><br>
-<a href="https://honeycon.eu/" class="bare">https://honeycon.eu/</a></p>
-<div class="ulist">
-<ul>
-<li>
-<p>Peleas de sables de luz:</p>
-<div class="imageblock">
-<div class="content">
-<img src="https://pbs.twimg.com/media/CxC3e_RXAAAH01A.jpg" alt="300" width="400">
-</div>
-<div class="title">Figure 1. <em><a href="https://twitter.com/i/web/status/797339466771951616" class="bare">https://twitter.com/i/web/status/797339466771951616</a></em></div>
-</div>
-</li>
-<li>
-<p>Capitán&#8230;&#8203; ¿hamburguesa?</p>
-<div class="imageblock">
-<div class="content">
-<img src="https://pbs.twimg.com/media/CxAnI8dW8AE6-Kx.jpg:large" alt="300" width="400">
-</div>
-<div class="title">Figure 2. <em><a href="https://twitter.com/MMontesDiaz/status/797180184663363584" class="bare">https://twitter.com/MMontesDiaz/status/797180184663363584</a></em></div>
-</div>
-</li>
-</ul>
-</div>
-</li>
-</ul>
-</div>
-<div class="exampleblock">
-<div class="content">
-<div class="ulist">
-<ul>
-<li>
-<p><strong>Mientras, en México, la Con del año se ha llamado #Bugcon2016</strong><br>
-<a href="http://www.bugcon.org/" class="bare">http://www.bugcon.org/</a></p>
-<div class="ulist">
-<ul>
-<li>
-<p>Lleno&#8230;&#8203; hasta el suelo</p>
-<div class="imageblock">
-<div class="content">
-<img src="https://pbs.twimg.com/media/CxAU7jLUoAAP3pd.jpg:large" alt="300" width="400">
-</div>
-<div class="title">Figure 3. <em><a href="https://twitter.com/BugCON/status/797160158707249152" class="bare">https://twitter.com/BugCON/status/797160158707249152</a></em></div>
-</div>
-</li>
-<li>
-<p>La charla estrella</p>
-<div class="imageblock">
-<div class="content">
-<img src="https://pbs.twimg.com/media/CxAFtQzUsAAbFaQ.jpg:large" alt="300" width="400">
-</div>
-<div class="title">Figure 4. <em><a href="https://twitter.com/calderpwn/status/797143421060345856" class="bare">https://twitter.com/calderpwn/status/797143421060345856</a></em></div>
-</div>
-</li>
-</ul>
-</div>
-</li>
-</ul>
-</div>
-<div class="paragraph">
-<p><strong>EL RESTO DE LAS NOTICIAS</strong></p>
-</div>
-<div class="ulist">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Port666]]></title><description><![CDATA[Hacking news]]></description><link>https://Port666.github.io/hubpress.io</link><generator>RSS for Node</generator><lastBuildDate>Sat, 12 Nov 2016 17:22:22 GMT</lastBuildDate><atom:link href="https://Port666.github.io/hubpress.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Hacking News (12/11/16)]]></title><description><![CDATA[<div class="ulist">
 <ul>
 <li>
 <p><strong>Ataques DDoS contra 5 bancos rusos usando la botnet de IoT, Mirai</strong><br>
@@ -87,6 +19,51 @@
 <li>
 <p><strong>Fascinante: ataques DDoS al sistema de control de unos apartamentos de Finlandia deja a sus habitantes sin calefacción ni agua caliente en pleno invierno</strong><br>
 <a href="http://metropolitan.fi/entry/ddos-attack-halts-heating-in-finland-amidst-winter" class="bare">http://metropolitan.fi/entry/ddos-attack-halts-heating-in-finland-amidst-winter</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>CON&#8217;S</strong></p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><strong>La Con del año en España: #HoneyCon16, ayer y hoy en Guadalajara</strong><br>
+<a href="https://honeycon.eu/" class="bare">https://honeycon.eu/</a></p>
+<div class="imageblock">
+<div class="content">
+<img src="https://pbs.twimg.com/media/CxC3e_RXAAAH01A.jpg" alt="300" width="400">
+</div>
+<div class="title">Figure 1. <em><a href="https://twitter.com/i/web/status/797339466771951616" class="bare">https://twitter.com/i/web/status/797339466771951616</a></em></div>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://pbs.twimg.com/media/CxAnI8dW8AE6-Kx.jpg:large" alt="300" width="400">
+</div>
+<div class="title">Figure 2. <em><a href="https://twitter.com/MMontesDiaz/status/797180184663363584" class="bare">https://twitter.com/MMontesDiaz/status/797180184663363584</a></em></div>
+</div>
+</li>
+</ul>
+</div>
+<div class="exampleblock">
+<div class="content">
+<div class="ulist">
+<ul>
+<li>
+<p><strong>Mientras, en México, la Con del año se ha llamado #Bugcon2016</strong><br>
+<a href="http://www.bugcon.org/" class="bare">http://www.bugcon.org/</a></p>
+<div class="imageblock">
+<div class="content">
+<img src="https://pbs.twimg.com/media/CxAU7jLUoAAP3pd.jpg:large" alt="300" width="400">
+</div>
+<div class="title">Figure 3. <em><a href="https://twitter.com/BugCON/status/797160158707249152" class="bare">https://twitter.com/BugCON/status/797160158707249152</a></em></div>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://pbs.twimg.com/media/CxAFtQzUsAAbFaQ.jpg:large" alt="300" width="400">
+</div>
+<div class="title">Figure 4. <em><a href="https://twitter.com/calderpwn/status/797143421060345856" class="bare">https://twitter.com/calderpwn/status/797143421060345856</a></em></div>
+</div>
 </li>
 </ul>
 </div>
