@@ -1,4 +1,119 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Port666]]></title><description><![CDATA[Hacking news]]></description><link>https://Port666.github.io/hubpress.io</link><generator>RSS for Node</generator><lastBuildDate>Fri, 11 Nov 2016 19:57:10 GMT</lastBuildDate><atom:link href="https://Port666.github.io/hubpress.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Lo que puse hoy en Twitter 11/11/2016]]></title><description><![CDATA[<div class="imageblock">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Port666]]></title><description><![CDATA[Hacking news]]></description><link>https://Port666.github.io/hubpress.io</link><generator>RSS for Node</generator><lastBuildDate>Sat, 12 Nov 2016 09:10:12 GMT</lastBuildDate><atom:link href="https://Port666.github.io/hubpress.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Hacking News (12/11/16)]]></title><description><![CDATA[<div class="paragraph">
+<p><strong>LO MÁS INTERESANTE</strong></p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><strong>La Con del año en España: #HoneyCon16, ayer y hoy en Guadalajara</strong><br>
+<a href="https://honeycon.eu/" class="bare">https://honeycon.eu/</a></p>
+<div class="ulist">
+<ul>
+<li>
+<p>Peleas de sables de luz:</p>
+<div class="imageblock">
+<div class="content">
+<img src="https://pbs.twimg.com/media/CxC3e_RXAAAH01A.jpg" alt="CxC3e RXAAAH01A.jpg">
+</div>
+<div class="title">Figure 1. <em><a href="https://twitter.com/i/web/status/797339466771951616" class="bare">https://twitter.com/i/web/status/797339466771951616</a></em></div>
+</div>
+</li>
+<li>
+<p>Capitán&#8230;&#8203; ¿hamburguesa?</p>
+<div class="imageblock">
+<div class="content">
+<img src="https://pbs.twimg.com/media/CxAnI8dW8AE6-Kx.jpg:large" alt="CxAnI8dW8AE6 Kx.jpg:large">
+</div>
+<div class="title">Figure 2. <em><a href="https://twitter.com/MMontesDiaz/status/797180184663363584" class="bare">https://twitter.com/MMontesDiaz/status/797180184663363584</a></em></div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+<div class="exampleblock">
+<div class="content">
+<div class="ulist">
+<ul>
+<li>
+<p><strong>Mientras, en México, la Con del año se ha llamado #Bugcon2016</strong><br>
+<a href="http://www.bugcon.org/" class="bare">http://www.bugcon.org/</a></p>
+<div class="ulist">
+<ul>
+<li>
+<p>Lleno&#8230;&#8203; hasta el suelo</p>
+<div class="imageblock">
+<div class="content">
+<img src="https://pbs.twimg.com/media/CxAU7jLUoAAP3pd.jpg:large" alt="CxAU7jLUoAAP3pd.jpg:large">
+</div>
+<div class="title">Figure 3. <em><a href="https://twitter.com/BugCON/status/797160158707249152" class="bare">https://twitter.com/BugCON/status/797160158707249152</a></em></div>
+</div>
+</li>
+<li>
+<p>La charla estrella</p>
+<div class="imageblock">
+<div class="content">
+<img src="https://pbs.twimg.com/media/CxAFtQzUsAAbFaQ.jpg:large" alt="CxAFtQzUsAAbFaQ.jpg:large">
+</div>
+<div class="title">Figure 4. <em><a href="https://twitter.com/calderpwn/status/797143421060345856" class="bare">https://twitter.com/calderpwn/status/797143421060345856</a></em></div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>EL RESTO DE LAS NOTICIAS</strong></p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><strong>Ataques DDoS contra 5 bancos rusos usando la botnet de IoT, Mirai</strong><br>
+<a href="http://securityaffairs.co/wordpress/53312/cyber-crime/ddos-attacks-russia-banks.html" class="bare">http://securityaffairs.co/wordpress/53312/cyber-crime/ddos-attacks-russia-banks.html</a></p>
+</li>
+<li>
+<p><strong>El Ejército de EEUU inicia su propio y polémico programa de "bug bounty"</strong><br>
+<a href="https://www.wired.com/2016/11/us-military-launches-hack-army-ambitious-bug-bounty-yet/" class="bare">https://www.wired.com/2016/11/us-military-launches-hack-army-ambitious-bug-bounty-yet/</a></p>
+</li>
+<li>
+<p><strong>¿Cómo saltarte un programa de reconocimiento facial? Fácil: con gafas</strong><br>
+<a href="https://www.schneier.com/blog/archives/2016/11/fooling_facial_.html" class="bare">https://www.schneier.com/blog/archives/2016/11/fooling_facial_.html</a></p>
+</li>
+<li>
+<p><strong>Entrevista a Ramón Roca, de Guifi.net, wifi y fibra óptica libres - Eso sí es hacking</strong><br>
+<a href="http://www.eldiario.es/alternativaseconomicas/Guifinet-wifi-fibra-optica-libre_6_578902137.html" class="bare">http://www.eldiario.es/alternativaseconomicas/Guifinet-wifi-fibra-optica-libre_6_578902137.html</a></p>
+</li>
+<li>
+<p><strong>Fascinante: ataques DDoS al sistema de control de unos apartamentos de Finlandia deja a sus habitantes sin calefacción ni agua caliente en pleno invierno</strong><br>
+<a href="http://metropolitan.fi/entry/ddos-attack-halts-heating-in-finland-amidst-winter" class="bare">http://metropolitan.fi/entry/ddos-attack-halts-heating-in-finland-amidst-winter</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>LA ANIMALADA</strong></p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><strong>Cómo hackear un ordenador</strong><br>
+<a href="http://www.microsiervos.com/archivo/humor/como-hackear-un-ordenador.html" class="bare">http://www.microsiervos.com/archivo/humor/como-hackear-un-ordenador.html</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>LA FRASE</strong></p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>@pinboard: <strong>We have a moral responsibility in the tech community to protect people from the surveillance apparatus we’ve built around them. It’s urgent</strong><br>
+<a href="https://twitter.com/Pinboard/status/797165214214987776" class="bare">https://twitter.com/Pinboard/status/797165214214987776</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>https://Port666.github.io/hubpress.io/2016/11/12/Hacking-News-121116.html</link><guid isPermaLink="true">https://Port666.github.io/hubpress.io/2016/11/12/Hacking-News-121116.html</guid><dc:creator><![CDATA[Mercè Molist]]></dc:creator><pubDate>Sat, 12 Nov 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Lo que puse hoy en Twitter 11/11/2016]]></title><description><![CDATA[<div class="imageblock">
 <div class="content">
 <img src="https://Port666.github.io/hubpress.io/images/Internet_usage_09_2016.png" alt="Internet usage 09 2016.png">
 </div>
