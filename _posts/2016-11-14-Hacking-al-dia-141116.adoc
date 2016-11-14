@@ -1,0 +1,33 @@
+= Hacking al día (14/11/16)
+:hg-tags: ciberseguridad, cybersecurity, daily, news, 
+
+image::Keep_Calm_Scroogled_Mug_Wide.jpg[500,400]
+====
+* *Qué pasa cuando tus datos son owneados: entendiendo mediante honeypots el uso "in the wild" de credenciales de webmail robadas*
+https://www.benthamsgaze.org/2016/11/14/understanding-the-use-of-leaked-webmail-credentials-in-the-wild/
+
+* *El carding puede infectarte* 
+http://laboratorio.blogs.hispasec.com/2016/11/el-carding-puede-infectarte.html
+
+* *Cómo inferir la contraseña de tu teléfono móvil por las señales WiFi* 
+http://dl.acm.org/citation.cfm?id=2978397
+
+* *Los gobiernos trabajan en militarizar las redes sociales para influenciarnos (y no es broma)*
+http://motherboard.vice.com/read/your-government-wants-to-militarize-social-media-to-influence-your-beliefs
+
+* *Oh My God! Los 1,2 millones de empleados del Servicio Nacional de Salud británico se han visto atrapados en un infierno de "reply-all" en su mail*
+https://news.slashdot.org/story/16/11/14/1423215/the-nhss-12-million-employees-are-trapped-in-a-reply-all-email-thread
+
+* *El dilema del ejecutivo: si contratas la nube, deberás reducir gastos por otra parte*
+http://www.infoworld.com/article/3139047/cloud-computing/executive-dilemma-approve-the-cloud-get-a-pay-cut.html
+
+*CYBERCULTURE*
+
+* *Ya está aquí el primer trailer de 'Ghost in the Shell'* 
+http://motherboard.vice.com/read/ghost-in-the-shell-trailer
++
+video::hxeR9Nu0nQs[youtube]
+***
+IMPORTANT: _Copyleft Mercè Molist - http://mercemolist.net +
+Verbatim copying, translation and distribution of this entire web is permitted in any digital and no commercial medium, provide this notice is preserved._  
+
