@@ -1,4 +1,72 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Port666]]></title><description><![CDATA[Hacking news]]></description><link>https://Port666.github.io/hubpress.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 14 Nov 2016 17:55:41 GMT</lastBuildDate><atom:link href="https://Port666.github.io/hubpress.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Hacking al día (14/11/16)]]></title><description><![CDATA[<div class="imageblock">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Port666]]></title><description><![CDATA[Hacking news]]></description><link>https://Port666.github.io/hubpress.io</link><generator>RSS for Node</generator><lastBuildDate>Tue, 15 Nov 2016 16:09:20 GMT</lastBuildDate><atom:link href="https://Port666.github.io/hubpress.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Hacking daily nius (15/11/16)]]></title><description><![CDATA[<div class="admonitionblock note">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-note" title="Note"></i>
+</td>
+<td class="content">
+<em>Microsoft+Adobe Systems+Lauri Love+Hacking Team+Docs+Dark Web drugs+RedIRIS+iOS</em>
+</td>
+</tr>
+</table>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://Port666.github.io/hubpress.io/images/awesome_hacking.jpg" alt="400" width="500">
+</div>
+</div>
+<hr>
+<div class="ulist">
+<ul>
+<li>
+<p>A partir de enero <strong>Microsoft no publicará más boletines de seguridad</strong>, los pondrá en una base de datos y espavílate.<br>
+<a href="http://unaaldia.hispasec.com/2016/11/a-partir-de-enero-microsoft-no.html" class="bare">http://unaaldia.hispasec.com/2016/11/a-partir-de-enero-microsoft-no.html</a></p>
+</li>
+<li>
+<p>Ponen una <strong>multa de un millón de dólares a Adobe Systems</strong> por un robo de datos en servidores que corrían este software que afectó a diversos estados norteamericanos y a medio millón de usuarios.<br>
+<a href="http://www.welivesecurity.com/2016/11/15/adobe-fined-1-million-2013-data-breach/" class="bare">http://www.welivesecurity.com/2016/11/15/adobe-fined-1-million-2013-data-breach/</a></p>
+</li>
+<li>
+<p>A Lauri Love, que se la jugó entrando en objetivos militares y demás en la #OpLastResort <strong>no le ha valido su síndrome de Asperger para evitar la extradición</strong> a Estados Unidos.<br>
+<a href="http://arstechnica.co.uk/tech-policy/2016/09/lauri-love-to-be-extradited-hacking-charges-judge/" class="bare">http://arstechnica.co.uk/tech-policy/2016/09/lauri-love-to-be-extradited-hacking-charges-judge/</a></p>
+</li>
+<li>
+<p>Descubren nuevos implantes para Android que apuntan con demasiada certeza hacia <strong>Hacking Team</strong><br>
+<a href="http://rednaga.io/2016/11/14/hackingteam_back_for_your_androids/" class="bare">http://rednaga.io/2016/11/14/hackingteam_back_for_your_androids/</a></p>
+</li>
+<li>
+<p>Ponen a disposición de investigadores de <strong>todas las ramas del hacking un montón de documentación</strong>. En Github. Vale la pena echar un vistazo.<br>
+<a href="https://github.com/Hack-with-Github/Awesome-Hacking" class="bare">https://github.com/Hack-with-Github/Awesome-Hacking</a></p>
+</li>
+<li>
+<p><strong>No compres drogas en la Dark Web</strong> que ahora lo tienen muy vigilado. Dos detenidos por comprar 50 gramos de anfetamina y otro, sentenciado ya a 22 meses en prisión.<br>
+<a href="https://www.deepdotweb.com/2016/11/15/two-arrested-romania-ordering-50-grams-amphetamine-netherlands/" class="bare">https://www.deepdotweb.com/2016/11/15/two-arrested-romania-ordering-50-grams-amphetamine-netherlands/</a>
+<a href="https://www.deepdotweb.com/2016/11/14/bavarian-man-sentenced-prison-16-darknet-purchases-2013/" class="bare">https://www.deepdotweb.com/2016/11/14/bavarian-man-sentenced-prison-16-darknet-purchases-2013/</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>UNA BUENA CON</strong></p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Aquí tienes todos los <strong>vídeos de las charlas</strong> de las Jornadas Técnicas de RedIRIS 2016, que acaban de celebrarse en Valencia.<br>
+<a href="http://tv.rediris.es/es/gt2016/index.html" class="bare">http://tv.rediris.es/es/gt2016/index.html</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>RECOMENDADO</strong></p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Esta charla de la DEF CON 24 la recomienda @revskills en Twitter: <em>"Un viaje a través de <strong>técnicas de mitigación de explotación en iOS</strong>"</em> de Max Bazaliy<br>
+<a href="https://www.youtube.com/watch?v=Gu4UJR9nZqM" class="bare">https://www.youtube.com/watch?v=Gu4UJR9nZqM</a></p>
+</li>
+</ul>
+</div>]]></description><link>https://Port666.github.io/hubpress.io/2016/11/15/Hacking-daily-nius-151116.html</link><guid isPermaLink="true">https://Port666.github.io/hubpress.io/2016/11/15/Hacking-daily-nius-151116.html</guid><dc:creator><![CDATA[Mercè Molist]]></dc:creator><pubDate>Tue, 15 Nov 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Hacking al día (14/11/16)]]></title><description><![CDATA[<div class="imageblock">
 <div class="content">
 <img src="https://Port666.github.io/hubpress.io/images/Keep_Calm_Scroogled_Mug_Wide.jpg" alt="500" width="400">
 </div>
