@@ -1,0 +1,37 @@
+= Hacking daily nius (15/11/16)
+
+NOTE: _Microsoft+Adobe Systems+Lauri Love+Hacking Team+Docs+Dark Web drugs+RedIRIS+iOS_
+
+image::awesome_hacking.jpg[400,500]
+***
+* A partir de enero *Microsoft no publicará más boletines de seguridad*, los pondrá en una base de datos y espavílate. +
+http://unaaldia.hispasec.com/2016/11/a-partir-de-enero-microsoft-no.html
+
+* Ponen una *multa de un millón de dólares a Adobe Systems* por un robo de datos en servidores que corrían este software que afectó a diversos estados norteamericanos y a medio millón de usuarios. +
+http://www.welivesecurity.com/2016/11/15/adobe-fined-1-million-2013-data-breach/
+
+* A Lauri Love, que se la jugó entrando en objetivos militares y demás en la #OpLastResort *no le ha valido su síndrome de Asperger para evitar la extradición* a Estados Unidos. +
+http://arstechnica.co.uk/tech-policy/2016/09/lauri-love-to-be-extradited-hacking-charges-judge/
+
+* Descubren nuevos implantes para Android que apuntan con demasiada certeza hacia *Hacking Team* +
+http://rednaga.io/2016/11/14/hackingteam_back_for_your_androids/
+
+* Ponen a disposición de investigadores de *todas las ramas del hacking un montón de documentación*. En Github. Vale la pena echar un vistazo. +
+https://github.com/Hack-with-Github/Awesome-Hacking
+
+* *No compres drogas en la Dark Web* que ahora lo tienen muy vigilado. Dos detenidos por comprar 50 gramos de anfetamina y otro, sentenciado ya a 22 meses en prisión. +
+https://www.deepdotweb.com/2016/11/15/two-arrested-romania-ordering-50-grams-amphetamine-netherlands/
+https://www.deepdotweb.com/2016/11/14/bavarian-man-sentenced-prison-16-darknet-purchases-2013/
+
+
+*UNA BUENA CON*
+
+* Aquí tienes todos los *vídeos de las charlas* de las Jornadas Técnicas de RedIRIS 2016, que acaban de celebrarse en Valencia. +
+http://tv.rediris.es/es/gt2016/index.html
+
+
+*RECOMENDADO*
+
+* Esta charla de la DEF CON 24 la recomienda @revskills en Twitter: _"Un viaje a través de *técnicas de mitigación de explotación en iOS*"_ de Max Bazaliy +
+https://www.youtube.com/watch?v=Gu4UJR9nZqM
+
