@@ -1,0 +1,32 @@
+= Hacking Daily News (16/11/16)
+
+image::DDoSortreat.jpeg[500,300] 
+
+NOTE: -Acusado del DDos contra Spamhaus no irá a prisión +
+-Google toma posiciones en el nuevo mundo Trump +
+-Linux owneado apretando Enter +
+-Twitter permite espionaje en tiempo real al FBI +
+-El micro de MacOS sigue grabando sin avisar +
+
+
+* *El acusado del DDoS contra Spamhaus no pasará ni un día en prisión* +
+Fueron los ataques DDoS más fuertes del momento, en 2013, con picos de más de 300 Gbps que consiguieron ralentizar Internet. El hacker holandés Sven Olaf Kamphuis fue detenido en Barcelona acusado de participar en ellos y estuvo 55 días en prisión mientras esperaba la extradición a su país. Ahora un juez dice que con estos días en prisión ya ha tenido suficiente y no deberá pasar ni uno más. En julio de 2015 otro joven fue detenido, en Gran Bretaña, acusado del mismo ataque. Seth Nolan Mcdonagh ha sido sentenciado a 240 horas de trabajo comunitario. Y así se cierran las consecuencias para los posibles responsables de uno de los ataques más fuertes sufridos por la red. 
+http://securityaffairs.co/wordpress/53473/cyber-crime/spamhaus-attack.html
+
+* *Google toma posiciones en la Federal Trade Comission de transición a Trump* +
+No parece costarle demasiado a Google virar hacia Trump, asegura un artículo en "The Intercept". Joshua Wright será el encargado de hacer las tareas de lobby para Google en la FTC. Por otra parte, The New York Times publica una larga carta de Julian Assange titulada "The Banality of ‘Don’t Be Evil’" acusa a Eric Schmidt y Jared Cohen de haber asesinado la privacidad y conducir al mundo hacia el autoritarismo. Como no nos gusta tener que dar nuestros datos a The New York Times para leerlo (y no entendemos que hace Assange publicando cosas sobre privacidad allí), os dejamos mejor el resumen del tema que ha hecho Michael Moore en su Facebook (otro que tal baila).
+https://theintercept.com/2016/11/15/google-gets-a-seat-on-the-trump-transition-team/
+https://www.facebook.com/mmflint/posts/366514833450574
+
+* *Linux puede ser owneado sólo con apretar 70 segundos la tecla Enter* +
+Lo han descubierto dos investigadores muy ligados a la Universitat Politénica de Valencia y a estas horas la noticia corre como pólvora por toda Internet. Héctor Marco e Ismael Ripoll han descubierto esta vulnerabilidad que permite a un atacante conseguir shell de root en initramfs al apretar durante 70 segundos la tecla Enter. Esto se debe a un bug en Linux Unified Key Setup (LUKS) y permite atacar máquinas Linux con cifrado. 
+http://www.theregister.co.uk/2016/11/16/want_to_pop_linux_shell_hole_enter_for_a_minute/
+
+* *Twitter pone en manos del FBI una herramienta para espionaje en tiempo real* +
+Twitter ha puesto en manos del FBI una herramienta de espionaje avanzado en tiempo real que usará, en principio, sobre 200 cuentas de Twitter investigadas por la policía, supuestamente pertenecientes a "terroristas" y "criminales". La herramienta perminte hacer búsquedas en Twitter en prácticamente tiempo real y con filtros personalizables. 
+http://www.theverge.com/2016/11/14/13629248/fbi-dataminr-twitter-surveillance-contract-scanning-police
+
+* *De cómo Shazam, el micro interno de MacOS, te sigue grabando aunque dejes de grabar* +
+Investigación realizada durante un viaje a la Ekoparty de Patrick Wardle.
+https://objective-see.com/blog/blog_0x13.html
+
